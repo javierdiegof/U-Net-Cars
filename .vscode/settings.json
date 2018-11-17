@@ -1,4 +1,0 @@
-{
-    "python.linting.pylintEnabled": false,
-    "python.pythonPath": "/home/javier/.conda/envs/tf36/bin/python"
-}
